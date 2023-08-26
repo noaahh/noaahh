@@ -1,4 +1,12 @@
 ### <div align="center">Hi 👋🏻, I'm Noah</div>  
+
+- *<div align="center">🔭 Data Science Student @ FHNW</div>*  
+  
+
+- *<div align="center">🌱 Part-time Software Engineer @ Rohde & Schwarz</div>*  
+  
+
+<br/>  
   
 <div align="center">
 <a href="https://github.com/ noaahh" target="_blank">
@@ -11,3 +19,5 @@
   
 
 <br/>  
+
+
